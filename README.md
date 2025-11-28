@@ -21,8 +21,9 @@
 
 ```console
 rodriggod@github:~$ cat about.txt
-mathematica
-Copy code
+```
+
+```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
 │  👨‍💻 Rodri                                                                 │
@@ -33,95 +34,133 @@ Copy code
 │  🧼 Me gusta escribir código limpio, modular y escalable                    │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
-> stack --main
-console
-Copy code
+```
+
+---
+
+## `> stack --main`
+
+```console
 rodriggod@github:~$ cat stack.txt
-🧩 Main Stack
-Python · FastAPI · TypeScript · React · Node.js · Docker
+```
 
-> backend --details
-console
-Copy code
+**🧩 Main Stack**  
+Python · FastAPI · TypeScript · React · Node.js · Docker  
+
+---
+
+## `> backend --details`
+
+```console
 rodriggod@github:~$ cat backend.txt
-⚙️ Backend
+```
 
-⚡ Frameworks: FastAPI, Flask, Express.js, Node.js
+**⚙️ Backend**
 
-🧱 Arquitectura: Microservicios y APIs REST escalables
+- ⚡ **Frameworks:** FastAPI, Flask, Express.js, Node.js  
+- 🧱 **Arquitectura:** Microservicios y APIs REST escalables  
+- 🔐 **Autenticación:** JWT / OAuth2  
+- 🧪 **Testing:** Pytest y Postman  
+- 💾 **Bases de datos:** MongoDB, MySQL  
 
-🔐 Autenticación: JWT / OAuth2
-
-🧪 Testing: Pytest y Postman
-
-💾 Bases de datos: MongoDB, MySQL
-
-txt
-Copy code
+```txt
 Stack: FastAPI   Stack: Node.js   Stack: Flask
-> frontend --details
-console
-Copy code
+```
+
+---
+
+## `> frontend --details`
+
+```console
 rodriggod@github:~$ cat frontend.txt
-🎨 Frontend
+```
 
-⚛️ React: Hooks, Router, Material UI, Axios
+**🎨 Frontend**
 
-🅰️ Angular: proyectos académicos
+- ⚛️ **React:** Hooks, Router, Material UI, Axios  
+- 🅰️ **Angular:** proyectos académicos  
+- 💻 **Maquetación:** HTML, CSS, Bootstrap, diseño responsive  
+- 📘 **TypeScript:** buenas prácticas de componentes y tipado estático  
 
-💻 Maquetación: HTML, CSS, Bootstrap, diseño responsive
-
-📘 TypeScript: buenas prácticas de componentes y tipado estático
-
-txt
-Copy code
+```txt
 Frontend: React + Vite
 Language: TypeScript
 UI: TailwindCSS
-> toolbox --list
-console
-Copy code
+```
+
+---
+
+## `> toolbox --list`
+
+```console
 rodriggod@github:~$ cat tools.txt
-🧰 Otras herramientas
+```
 
-Docker · Git / GitHub · CI/CD · Linux · Vite · PNPM · Jira
+**🧰 Otras herramientas**
 
-txt
-Copy code
+- Docker · Git / GitHub · CI/CD · Linux · Vite · PNPM · Jira  
+
+```txt
 Tool: Docker
 Tool: PNPM
 Tool: CI/CD
 Tool: Jira
 OS: Linux
-> status --now
-console
-Copy code
+```
+
+---
+
+## `> status --now`
+
+```console
 rodriggod@github:~$ cat status.txt
-📚 Actualmente
+```
 
-🧠 Preparando certificación Azure AI-900 (Microsoft AI Fundamentals)
+**📚 Actualmente**
 
-💼 Creando una aplicación web para calcular aranceles jurídicos (CAP Project)
+- 🧠 Preparando certificación **Azure AI-900 (Microsoft AI Fundamentals)**  
+- 💼 Creando una aplicación web para calcular **aranceles jurídicos (CAP Project)**  
+- 🚀 Desarrollando **demos de IA para PYMEs**  
 
-🚀 Desarrollando demos de IA para PYMEs
+---
 
-> github --stats
-console
-Copy code
+## `> github --stats`
+
+```console
 rodriggod@github:~$ fetch stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RodriGGod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriGGod&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=00FF00&dates=888888" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriGGod&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" alt="Top Languages" /> </div>
-> contact --info
-console
-Copy code
-rodriggod@github:~$ cat contact.txt
+```
+
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=RodriGGod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="GitHub Stats" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriGGod&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=00FF00&dates=888888" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriGGod&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" alt="Top Languages" />
 
 </div>
+
+---
+
+## `> contact --info`
+
+```console
+rodriggod@github:~$ cat contact.txt
+```
+
 <div align="center">
-txt
-Copy code
+
+[![GitHub](https://img.shields.io/badge/GitHub-RodriGGod-00FF00?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/RodriGGod)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Profile-00FF00?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/your_profile)
+
+</div>
+
+---
+
+<div align="center">
+
+```txt
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   > "Code is poetry written in logic."                                       ║
@@ -130,6 +169,8 @@ Copy code
 ║   > EOF                                                                      ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
+![Profile Views](https://komarev.com/ghpvc/?username=RodriGGod&color=00FF00&style=flat-square&label=VISITORS)
 
-</div> ```
+</div>
