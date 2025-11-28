@@ -1,19 +1,17 @@
-```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   > INITIALIZING PROFILE...                                                  ║
 ║   > SYSTEM READY                                                             ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 <div align="center">
 
 # `> RodriGGod_`
 
-**`Full Stack Developer`**
+**`Full Stack Developer | Backend Specialist`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+terminal;Building+the+future+one+commit+at+a+time;Clean+code+%7C+Minimal+design+%7C+Maximum+impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+terminal;Backend+first%2C+clean+code+always;Microservices+%7C+APIs+%7C+Cloud" alt="Typing SVG" />
 
 ---
 
@@ -23,75 +21,107 @@
 
 ```console
 rodriggod@github:~$ cat about.txt
-```
-
-```
+mathematica
+Copy code
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                                                                             │
-│  > Passionate developer focused on building elegant solutions               │
-│  > Lover of clean, efficient, and well-documented code                      │
-│  > Always learning, always evolving                                         │
+│  👨‍💻 Rodri                                                                 │
+│  Full Stack Developer | Backend Specialist                                  │
+│                                                                             │
+│  💡 Apasionado por el desarrollo backend y la arquitectura de microservicios│
+│  📚 Actualmente formándome en IA y Cloud (Microsoft Azure AI-900)           │
+│  🧼 Me gusta escribir código limpio, modular y escalable                    │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
-```
+> stack --main
+console
+Copy code
+rodriggod@github:~$ cat stack.txt
+🧩 Main Stack
+Python · FastAPI · TypeScript · React · Node.js · Docker
 
----
+> backend --details
+console
+Copy code
+rodriggod@github:~$ cat backend.txt
+⚙️ Backend
 
-## `> skills --list`
+⚡ Frameworks: FastAPI, Flask, Express.js, Node.js
 
-```console
-rodriggod@github:~$ cat skills.txt
-```
+🧱 Arquitectura: Microservicios y APIs REST escalables
 
-<div align="center">
+🔐 Autenticación: JWT / OAuth2
 
-| **Category** | **Technologies** |
-|:------------:|:----------------:|
-| `Languages` | `JavaScript` `Python` `TypeScript` `HTML` `CSS` |
-| `Frontend` | `React` `Vue` `Next.js` |
-| `Backend` | `Node.js` `Express` `Django` |
-| `Database` | `MongoDB` `PostgreSQL` `MySQL` |
-| `Tools` | `Git` `Docker` `Linux` `VS Code` |
+🧪 Testing: Pytest y Postman
 
-</div>
+💾 Bases de datos: MongoDB, MySQL
 
----
+txt
+Copy code
+Stack: FastAPI   Stack: Node.js   Stack: Flask
+> frontend --details
+console
+Copy code
+rodriggod@github:~$ cat frontend.txt
+🎨 Frontend
 
-## `> github --stats`
+⚛️ React: Hooks, Router, Material UI, Axios
 
-```console
+🅰️ Angular: proyectos académicos
+
+💻 Maquetación: HTML, CSS, Bootstrap, diseño responsive
+
+📘 TypeScript: buenas prácticas de componentes y tipado estático
+
+txt
+Copy code
+Frontend: React + Vite
+Language: TypeScript
+UI: TailwindCSS
+> toolbox --list
+console
+Copy code
+rodriggod@github:~$ cat tools.txt
+🧰 Otras herramientas
+
+Docker · Git / GitHub · CI/CD · Linux · Vite · PNPM · Jira
+
+txt
+Copy code
+Tool: Docker
+Tool: PNPM
+Tool: CI/CD
+Tool: Jira
+OS: Linux
+> status --now
+console
+Copy code
+rodriggod@github:~$ cat status.txt
+📚 Actualmente
+
+🧠 Preparando certificación Azure AI-900 (Microsoft AI Fundamentals)
+
+💼 Creando una aplicación web para calcular aranceles jurídicos (CAP Project)
+
+🚀 Desarrollando demos de IA para PYMEs
+
+> github --stats
+console
+Copy code
 rodriggod@github:~$ fetch stats
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RodriGGod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriGGod&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=00FF00&dates=888888" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriGGod&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" alt="Top Languages" />
-
-</div>
-
----
-
-## `> contact --info`
-
-```console
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RodriGGod&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&icon_color=00FF00" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriGGod&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF00&sideLabels=00FF00&dates=888888" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriGGod&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff" alt="Top Languages" /> </div>
+> contact --info
+console
+Copy code
 rodriggod@github:~$ cat contact.txt
-```
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-RodriGGod-00FF00?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/RodriGGod)
+
 
 </div>
-
----
-
 <div align="center">
-
-```
+txt
+Copy code
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   > "Code is poetry written in logic."                                       ║
@@ -100,8 +130,6 @@ rodriggod@github:~$ cat contact.txt
 ║   > EOF                                                                      ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
-![Profile Views](https://komarev.com/ghpvc/?username=RodriGGod&color=00FF00&style=flat-square&label=VISITORS)
 
-</div>
+</div> ```
